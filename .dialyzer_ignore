@@ -1,0 +1,6 @@
+# Dialyzer ignore file
+# This file can be used to suppress specific Dialyzer warnings
+# Format: filename:line_number:warning_type
+# Example: lib/my_module.ex:42:no_return
+
+# Currently no warnings to ignore - all issues have been resolved
